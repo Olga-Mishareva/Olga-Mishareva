@@ -1,11 +1,3 @@
-## Hi everyone 👋  I'm Olga.
-
-### I’m currently working on 
-
-- 🌱 writing clean and clear code.
-- 😎 becoming a good web developer.
-- 🏖 living in winter where it's warm.
-
 ### My stack:
 
 
@@ -18,16 +10,11 @@
 
 
 <!--
-**Olga-Mishareva/Olga-Mishareva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi everyone 👋
 
-Here are some ideas to get you started:
+### I’m currently working on 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 writing clean and clear code.
+- 😎 becoming a good web developer.
+- 🏖 living in winter where it's warm.
 -->
