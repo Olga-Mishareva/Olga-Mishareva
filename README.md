@@ -1,5 +1,10 @@
 ## Hi everyone 👋
 
+#### I’m currently working on 
+
+- 🌱 writing clean and clear code.
+- 😎 becoming a good web developer.
+- 🏖 living in winter where it's warm.
 
 ### My stack:
 
