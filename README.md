@@ -1,10 +1,10 @@
 ## Hi everyone 👋
 
-#### I’m currently working on 
+### I’m currently working on: 
 
-- 🌱 writing clean and clear code.
-- 😎 becoming a good web developer.
-- 🏖 living in winter where it's warm.
+<p >
+    <img src="https://readme-typing-svg.demolab.com/?lines=%20–%20writing%20clean%20and%20clear%20code;%20–%20improving%20my%20skills;%20–%20learning%20new%20things;%20–%20living%20in%20winter%20where%20it's%20warm&font=Fira%20Code&width=460&height=45&color=2d9fff&vCenter=true&size=22&pause=1000" />
+</p>
 
 ### My stack:
 
