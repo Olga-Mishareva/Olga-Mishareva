@@ -1,13 +1,15 @@
-## Hi everyone 👋
+# Hi everyone 👋
+
 
 ### I’m currently working on: 
 
 <p >
-    <img src="https://readme-typing-svg.demolab.com/?lines=%20–%20writing%20clean%20and%20clear%20code;%20–%20improving%20my%20skills;%20–%20learning%20new%20things;%20–%20living%20in%20winter%20where%20it's%20warm&font=Fira%20Code&width=460&height=45&color=2d9fff&vCenter=true&size=22&pause=1000" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=%20–%20writing%20clean%20and%20clear%20code;%20–%20improving%20my%20skills;%20–%20learning%20new%20things;%20–%20living%20in%20winter%20where%20it's%20warm&font=Fira%20Code&width=460&height=45&color=2d9fff&vCenter=true&size=20&pause=1000" />
 </p>
+<br>
 
 ### My stack:
-
+<br>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
@@ -20,7 +22,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Olga-Mishareva&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
 
 
 <!--
